@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "https://github.com/luizgabriellf/node-proffy.git",
   "author": "Gabriel Ferreira <gabriel1492@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^3.9.7"
+  }
 }
