@@ -1,0 +1,8 @@
+{
+  "name": "node-proffy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/luizgabriellf/node-proffy.git",
+  "author": "Gabriel Ferreira <gabriel1492@gmail.com>",
+  "license": "MIT"
+}
